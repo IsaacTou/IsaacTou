@@ -3,10 +3,10 @@
 </div>
 
 <div>
-<h4>  I am currently a student of Computer Science at UCV and i am studyng three semester of this bachellor </h4>
-<h4  If you want contact me, you only need to write in that number --> 0424-1430609
-</h4>
-<h4> Too if you want, you can contact me at gmail</h4>
+I'm Isaac and I'm currently a Computer Science student at UCV and I'm in the third semester of this degree
+If you want contact me, you only need to write in that number -- 0424-1430609
+
+ Too if you want, you can contact me at gmail</h4>
 </div>
 <!--
 **IsaacTou/IsaacTou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

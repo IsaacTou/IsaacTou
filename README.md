@@ -3,10 +3,10 @@
 </div>
 
 <div>
-<h3 align="center" I am currently a student of Computer Science at UCV and i am studyng three semester of this bachellor</h3>
-<h3 align="center"> If you want contact me, you only need to write in that number --> 0424-1430609
-</h3>
-<h3 align="center"> Too if you want, you can contact me at gmail</h3>
+<h4>  I am currently a student of Computer Science at UCV and i am studyng three semester of this bachellor </h4>
+<h4  If you want contact me, you only need to write in that number --> 0424-1430609
+</h4>
+<h4> Too if you want, you can contact me at gmail</h4>
 </div>
 <!--
 **IsaacTou/IsaacTou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

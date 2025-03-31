@@ -4,7 +4,7 @@
 
 <div>
 I'm Isaac and I'm currently a Computer Science student at UCV and I'm in the third semester of this degree
-If you want contact me, you only need to write in that number -- 0424-1430609
+If you want contact me, you only need to write in that number -- 
 
  Too if you want, you can contact me at gmail</h4>
 </div>

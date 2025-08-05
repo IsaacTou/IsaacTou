@@ -4,7 +4,7 @@
 I'm Isaac and I'm currently a Computer Science student at UCV. 
 If you want contact me:
 
-![Static Badge](https://img.shields.io/badge/Gmail?style=for-the-badge)
+
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?hl=es#inbox?compose=DmwnWsmHZmqHFhHRwjdCDNXvzLQstVfBgqWSMStXFpwDZcxdMdGRBVRRGLmzfcxRCNjlrlHGwBWl)
 <!--
 **IsaacTou/IsaacTou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

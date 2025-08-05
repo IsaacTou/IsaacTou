@@ -5,9 +5,9 @@ I'm Isaac and I'm currently a **Computer Science** student at UCV.
 <br>
 If you want contact me for other media:
 
-![Static Badge](https://img.shields.io/badge/gmail-EF4E4E?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Aisaacpereztouceda%40gmail.com)
-![Static Badge](https://img.shields.io/badge/Discord-A54CF3?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2Fvolkkaiser)
-![Static Badge](https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2FVolkKaiser%2F)
+[![Gmail](https://img.shields.io/badge/Gmail-EF4E4E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacpereztouceda@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-A54CF3?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/volkkaiser)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/VolkKaiser/)
 
 ## Tech Stack 💻🛸​
 

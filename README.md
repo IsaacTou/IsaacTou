@@ -1,13 +1,11 @@
-<div>
-<h1 align="center">Hi there 👋I'm Isaac</h1>
-</div>
 
+#🕹️​
 <div>
-I'm Isaac and I'm currently a Computer Science student at UCV and I'm in the third semester of this degree
-If you want contact me, you only need to write in that number -- 
-
- Too if you want, you can contact me at gmail</h4>
+I'm Isaac and I'm currently a Computer Science student at UCV. 
+If you want contact me:
 </div>
+![Static Badge](https://img.shields.io/badge/Gmail?style=for-the-badge)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?hl=es#inbox?compose=DmwnWsmHZmqHFhHRwjdCDNXvzLQstVfBgqWSMStXFpwDZcxdMdGRBVRRGLmzfcxRCNjlrlHGwBWl)
 <!--
 **IsaacTou/IsaacTou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
